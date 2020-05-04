@@ -1,5 +1,8 @@
 # JSMB - Complemento para SMB python
 
+Documentación:
+https://pypi.org/project/jsmb/
+
 ## Primero por hacer es usar 
 - pip install jsmb
 
